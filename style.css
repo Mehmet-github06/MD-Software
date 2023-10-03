@@ -1,0 +1,128 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: "Lato", sans-serif;
+}
+
+body {
+	height: 100vh;
+	opacity: 0.7;
+}
+
+.header-footer-img {
+	background-image: url(./assets/bg.jpg);
+	min-height: 100%;
+	width: 100%;
+	background-attachment: fixed;
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.text {
+	font-size: 3rem;
+	letter-spacing: 0.5rem;
+	text-align: center;
+	color: #fff;
+}
+.header-footer-text {
+	background-color: black;
+	padding: 2rem;
+	border-top-left-radius: 2rem;
+	border-bottom-right-radius: 2rem;
+	outline: 10px inset purple;
+	outline-offset: 1rem;
+}
+
+.content {
+	text-align: center;
+	padding: 3rem 5rem;
+	line-height: 1.8rem;
+}
+.content h2 {
+	margin-bottom: 1rem;
+}
+.content p {
+	font-size: 1.1rem;
+}
+.content-gray {
+	background-color: lightgray;
+}
+
+.image {
+	height: 80%;
+	width: 100%;
+	background-attachment: fixed;
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.logo {
+	background-image: url(./assets/bg2.jpg);
+}
+
+.logo img {
+	width: 30%;
+}
+
+.content-black {
+	background-color: black;
+	color: #fff;
+}
+
+.mid-text1 p,
+.mid-text2 p {
+	background-color: black;
+	padding: 0.5rem;
+	border-top-left-radius: 1rem;
+	border-bottom-right-radius: 1rem;
+	outline: 7px inset purple;
+	outline-offset: 0.3rem;
+}
+
+.mid-text1 {
+	background-image: url(./assets/bg3.jpg);
+}
+
+.mid-text2 {
+	background-image: url(./assets/bg4.jpg);
+}
+.btn {
+	position: fixed;
+	bottom: 1rem;
+	left: 1rem;
+	background-color: red;
+
+	width: 50px;
+	height: 50px;
+	border-radius: 50%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	opacity: 0.7;
+	transition: 0.3s;
+}
+
+.btn a {
+	color: #fff;
+	font-size: 1.5rem;
+}
+
+.btn:hover {
+	transform: translateY(-1rem);
+	transition: .5s;
+    cursor: pointer;
+    background-color: green;
+}
+
+.btn:hover i {
+    color: ;
+}
