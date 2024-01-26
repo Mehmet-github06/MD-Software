@@ -11,7 +11,7 @@ body {
 }
 
 .header-footer-img {
-	background-image: url(./assets/bg.jpg);
+	background-image: url(./img/bg.jpg);
 	min-height: 100%;
 	width: 100%;
 	background-attachment: fixed;
@@ -66,7 +66,7 @@ body {
 }
 
 .logo {
-	background-image: url(./assets/bg2.jpg);
+	background-image: url(./img/bg1.jpg);
 }
 
 .logo img {
@@ -89,11 +89,11 @@ body {
 }
 
 .mid-text1 {
-	background-image: url(./assets/bg3.jpg);
+	background-image: url(./img/bg2.jpg);
 }
 
 .mid-text2 {
-	background-image: url(./assets/bg4.jpg);
+	background-image: url(./img/bg3.jpg);
 }
 .btn {
 	position: fixed;
