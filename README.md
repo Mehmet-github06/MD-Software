@@ -13,7 +13,7 @@ This project showcases the offerings of MD-YAZILIM, providing insight into vario
 
 ## Live Demo
 
-Check out the live demo [here](#).
+Check out the live demo [here](https://paralax-p-mehmet-dogans-projects.vercel.app/).
 
 ## Screenshots
 
@@ -29,14 +29,10 @@ Check out the live demo [here](#).
 ### Data Analytics & Machine Learning Section
 ![Data Analytics & Machine Learning Section](./img/bg.jpg)
 
-### Why MD-YAZILIM Section
-![Why MD-YAZILIM Section](./img/bg2.jpg)
 
 ## Functionality
 
 Clicking the button with the up arrow icon at the bottom left corner of the page scrolls the page to the top.
 
-## Author
 
-This project is authored by [Your Name].
 
